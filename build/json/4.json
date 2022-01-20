@@ -1,0 +1,42 @@
+{
+  "name": "NFT Test #4",
+  "description": "Charlie test",
+  "image": "ipfs://Qme9ar3TMEXh8EoswPnpdtBVweLqdAJcRVg5UDNHuCi4kJ/4.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "High High "
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "High"
+    }
+  ],
+  "custom_fields": {
+    "dna": "3536c2a1bb4e319caca4d2fd44a82b3adc930250",
+    "edition": 4,
+    "date": 1642349269488,
+    "compiler": "HashLips Art Engine"
+  },
+  "external_url": "https://codecats.xyz"
+}
