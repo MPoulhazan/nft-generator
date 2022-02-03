@@ -1,42 +1,46 @@
 {
-  "name": "NFT Test #5",
-  "description": "Charlie test",
-  "image": "ipfs://Qme9ar3TMEXh8EoswPnpdtBVweLqdAJcRVg5UDNHuCi4kJ/5.png",
+  "name": "CryptoEggs #5",
+  "description": "What's inside ? Nobody knows — 10.000 unique hand-drawn and programmatically generated pixel art Eggs. Be ready for the multiverse ! These eggs may hold some surprises for you....",
+  "image": "ipfs://QmXHQZZEXQccnj6amZp2NksxdTUyGCBDi9Yvej7nw4HFft/5.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "blue"
     },
     {
-      "trait_type": "Eyeball",
-      "value": "Red"
+      "trait_type": "Neck",
+      "value": "neck"
     },
     {
-      "trait_type": "Eye color",
-      "value": "Red"
+      "trait_type": "Egg",
+      "value": "classic"
     },
     {
-      "trait_type": "Iris",
-      "value": "Large"
+      "trait_type": "Body",
+      "value": "polo-blue"
     },
     {
-      "trait_type": "Shine",
-      "value": "Shapes"
+      "trait_type": "Eyes",
+      "value": "mono-green"
     },
     {
-      "trait_type": "Bottom lid",
-      "value": "Low"
+      "trait_type": "Glasses",
+      "value": "transparent"
     },
     {
-      "trait_type": "Top lid",
-      "value": "Middle"
+      "trait_type": "Hair",
+      "value": "crown-2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "cigarette"
     }
   ],
   "custom_fields": {
-    "dna": "76ffdbc6397dd38e8279560e42ece1f46e593024",
+    "dna": "c2e7989c0236abb0c365c3d8d5a140fe2659e8a1",
     "edition": 5,
-    "date": 1642349269643,
+    "date": 1643917067359,
     "compiler": "HashLips Art Engine"
   },
-  "external_url": "https://codecats.xyz"
+  "external_url": "https://thecryptoeggs.com"
 }

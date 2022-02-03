@@ -1,42 +1,46 @@
 {
-  "name": "NFT Test #3",
-  "description": "Charlie test",
-  "image": "ipfs://Qme9ar3TMEXh8EoswPnpdtBVweLqdAJcRVg5UDNHuCi4kJ/3.png",
+  "name": "CryptoEggs #3",
+  "description": "What's inside ? Nobody knows — 10.000 unique hand-drawn and programmatically generated pixel art Eggs. Be ready for the multiverse ! These eggs may hold some surprises for you....",
+  "image": "ipfs://QmXHQZZEXQccnj6amZp2NksxdTUyGCBDi9Yvej7nw4HFft/3.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Yellow"
+      "value": "gray"
     },
     {
-      "trait_type": "Eyeball",
-      "value": "Red"
+      "trait_type": "Neck",
+      "value": "neck"
     },
     {
-      "trait_type": "Eye color",
-      "value": "Yellow"
+      "trait_type": "Egg",
+      "value": "classic"
     },
     {
-      "trait_type": "Iris",
-      "value": "Small"
+      "trait_type": "Body",
+      "value": "jacket-yellow"
     },
     {
-      "trait_type": "Shine",
-      "value": "Shapes"
+      "trait_type": "Eyes",
+      "value": "classic"
     },
     {
-      "trait_type": "Bottom lid",
-      "value": "Middle"
+      "trait_type": "Glasses",
+      "value": "pirate"
     },
     {
-      "trait_type": "Top lid",
-      "value": "High"
+      "trait_type": "Hair",
+      "value": "short-brown-light"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "carnaval-purple"
     }
   ],
   "custom_fields": {
-    "dna": "992e11fc63e8f221cc31a367b491d632ea3c3e1a",
+    "dna": "f9a14798e6bca92cc59d021d58a1ba6a399af5e9",
     "edition": 3,
-    "date": 1642349269365,
+    "date": 1643917067232,
     "compiler": "HashLips Art Engine"
   },
-  "external_url": "https://codecats.xyz"
+  "external_url": "https://thecryptoeggs.com"
 }

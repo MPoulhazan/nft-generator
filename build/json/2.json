@@ -1,42 +1,46 @@
 {
-  "name": "NFT Test #2",
-  "description": "Charlie test",
-  "image": "ipfs://Qme9ar3TMEXh8EoswPnpdtBVweLqdAJcRVg5UDNHuCi4kJ/2.png",
+  "name": "CryptoEggs #2",
+  "description": "What's inside ? Nobody knows — 10.000 unique hand-drawn and programmatically generated pixel art Eggs. Be ready for the multiverse ! These eggs may hold some surprises for you....",
+  "image": "ipfs://QmXHQZZEXQccnj6amZp2NksxdTUyGCBDi9Yvej7nw4HFft/2.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "blue"
     },
     {
-      "trait_type": "Eyeball",
-      "value": "Red"
+      "trait_type": "Neck",
+      "value": "neck"
     },
     {
-      "trait_type": "Eye color",
-      "value": "Green"
+      "trait_type": "Egg",
+      "value": "classic"
     },
     {
-      "trait_type": "Iris",
-      "value": "Small"
+      "trait_type": "Body",
+      "value": "jacket-green"
     },
     {
-      "trait_type": "Shine",
-      "value": "Shapes"
+      "trait_type": "Eyes",
+      "value": "green"
     },
     {
-      "trait_type": "Bottom lid",
-      "value": "Middle"
+      "trait_type": "Glasses",
+      "value": "3d"
     },
     {
-      "trait_type": "Top lid",
-      "value": "Middle"
+      "trait_type": "Hair",
+      "value": "short-blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "hungry"
     }
   ],
   "custom_fields": {
-    "dna": "be39a1c404310d95bc254109ad15174b4971bd3f",
+    "dna": "402c7ff52358cdd5fe42e87d2717587b2db0dfc6",
     "edition": 2,
-    "date": 1642349269230,
+    "date": 1643917067177,
     "compiler": "HashLips Art Engine"
   },
-  "external_url": "https://codecats.xyz"
+  "external_url": "https://thecryptoeggs.com"
 }

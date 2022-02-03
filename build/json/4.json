@@ -1,42 +1,46 @@
 {
-  "name": "NFT Test #4",
-  "description": "Charlie test",
-  "image": "ipfs://Qme9ar3TMEXh8EoswPnpdtBVweLqdAJcRVg5UDNHuCi4kJ/4.png",
+  "name": "CryptoEggs #4",
+  "description": "What's inside ? Nobody knows — 10.000 unique hand-drawn and programmatically generated pixel art Eggs. Be ready for the multiverse ! These eggs may hold some surprises for you....",
+  "image": "ipfs://QmXHQZZEXQccnj6amZp2NksxdTUyGCBDi9Yvej7nw4HFft/4.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "gray"
     },
     {
-      "trait_type": "Eyeball",
-      "value": "White"
+      "trait_type": "Neck",
+      "value": "neck"
     },
     {
-      "trait_type": "Eye color",
-      "value": "Yellow"
+      "trait_type": "Egg",
+      "value": "classic"
     },
     {
-      "trait_type": "Iris",
-      "value": "Small"
+      "trait_type": "Body",
+      "value": "pull-orange"
     },
     {
-      "trait_type": "Shine",
-      "value": "Shapes"
+      "trait_type": "Eyes",
+      "value": "hungry-red"
     },
     {
-      "trait_type": "Bottom lid",
-      "value": "High High "
+      "trait_type": "Glasses",
+      "value": "pirate"
     },
     {
-      "trait_type": "Top lid",
-      "value": "High"
+      "trait_type": "Hair",
+      "value": "short-orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "semi-happy"
     }
   ],
   "custom_fields": {
-    "dna": "3536c2a1bb4e319caca4d2fd44a82b3adc930250",
+    "dna": "f79b08a617e8419146bbfc94ec287400a66795ae",
     "edition": 4,
-    "date": 1642349269488,
+    "date": 1643917067293,
     "compiler": "HashLips Art Engine"
   },
-  "external_url": "https://codecats.xyz"
+  "external_url": "https://thecryptoeggs.com"
 }

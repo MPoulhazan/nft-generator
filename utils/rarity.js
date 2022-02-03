@@ -18,6 +18,7 @@ layerConfigurations.forEach((config) => {
   let layers = config.layersOrder;
 
   layers.forEach((layer) => {
+    
     // get elements for each layer
     let elementsForLayer = [];
     let elements = getElements(`${layersDir}/${layer.name}/`);
