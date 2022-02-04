@@ -1,11 +1,11 @@
 {
   "name": "CryptoEgg #5648",
   "description": "What's inside ? Nobody knows — 10.000 unique hand-drawn and programmatically generated pixel art Eggs. Be ready for the multiverse ! These eggs may hold some surprises for you....",
-  "image": "ipfs://QmRpRD2J6nbJ7JAJSHUMeKVB1NXYGercGg1AdBMQZ2HJi5/5648.png",
+  "image": "ipfs://QmXGtc5CrjweLMXtKxBiX1iit48qtpBrWgeHKYcdDFXad2/5648.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "gray"
+      "value": "blue"
     },
     {
       "trait_type": "Neck",
@@ -25,21 +25,21 @@
     },
     {
       "trait_type": "Glasses",
-      "value": "ski"
+      "value": "3d"
     },
     {
       "trait_type": "Hair",
-      "value": "diplome"
+      "value": "head15"
     },
     {
       "trait_type": "Mouth",
-      "value": "tith"
+      "value": "pipe-green"
     }
   ],
   "custom_fields": {
-    "dna": "b1a8d328ae2b052a5047f0406f791132186100ef",
+    "dna": "15dc3bd32c3fe0f84d24003ef07622b76099e0f7",
     "edition": 5648,
-    "date": 1643945665277,
+    "date": 1643990287168,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"

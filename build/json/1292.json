@@ -1,11 +1,11 @@
 {
   "name": "CryptoEgg #1292",
   "description": "What's inside ? Nobody knows — 10.000 unique hand-drawn and programmatically generated pixel art Eggs. Be ready for the multiverse ! These eggs may hold some surprises for you....",
-  "image": "ipfs://QmRpRD2J6nbJ7JAJSHUMeKVB1NXYGercGg1AdBMQZ2HJi5/1292.png",
+  "image": "ipfs://QmXGtc5CrjweLMXtKxBiX1iit48qtpBrWgeHKYcdDFXad2/1292.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "brown"
+      "value": "blue"
     },
     {
       "trait_type": "Neck",
@@ -13,33 +13,33 @@
     },
     {
       "trait_type": "Egg",
-      "value": "white"
+      "value": "classic"
     },
     {
       "trait_type": "Body",
-      "value": "pull-blue"
+      "value": "polo-black"
     },
     {
       "trait_type": "Eyes",
-      "value": "green"
+      "value": "blue"
     },
     {
       "trait_type": "Glasses",
-      "value": "3d-2"
+      "value": "thug"
     },
     {
       "trait_type": "Hair",
-      "value": "transparent"
+      "value": "god"
     },
     {
       "trait_type": "Mouth",
-      "value": "hungry"
+      "value": "happy"
     }
   ],
   "custom_fields": {
-    "dna": "49907e8741c9eb27e251acaeef7aa69a89354b0b",
+    "dna": "67d2d3264c7bb7bc6230c11332bd44d148642555",
     "edition": 1292,
-    "date": 1643945428469,
+    "date": 1643990052208,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"
