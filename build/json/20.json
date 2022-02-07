@@ -13,15 +13,15 @@
     },
     {
       "trait_type": "Egg",
-      "value": "ultime"
+      "value": "grey"
     },
     {
       "trait_type": "Body",
-      "value": "polo-black"
+      "value": "chain"
     },
     {
       "trait_type": "Eyes",
-      "value": "red"
+      "value": "brown"
     },
     {
       "trait_type": "Glasses",
@@ -29,17 +29,17 @@
     },
     {
       "trait_type": "Hair",
-      "value": "short-blue"
+      "value": "bobe"
     },
     {
       "trait_type": "Mouth",
-      "value": "pipe-classic"
+      "value": "happy"
     }
   ],
   "custom_fields": {
-    "dna": "774fb28c088e9b37a05fef8742923409d98c10a5",
+    "dna": "cf62643d9807efdb29be1a5d1debb518ae417f59",
     "edition": 20,
-    "date": 1643989985394,
+    "date": 1644245072414,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"

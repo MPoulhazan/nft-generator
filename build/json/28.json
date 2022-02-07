@@ -5,7 +5,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "brown"
+      "value": "gray"
     },
     {
       "trait_type": "Neck",
@@ -13,33 +13,33 @@
     },
     {
       "trait_type": "Egg",
-      "value": "classic"
+      "value": "marine"
     },
     {
       "trait_type": "Body",
-      "value": "pull-ultpime"
+      "value": "jacket-blue"
     },
     {
       "trait_type": "Eyes",
-      "value": "classic"
+      "value": "black"
     },
     {
       "trait_type": "Glasses",
-      "value": "pirate"
+      "value": "3d-2"
     },
     {
       "trait_type": "Hair",
-      "value": "long-cap-blue"
+      "value": "bobe"
     },
     {
       "trait_type": "Mouth",
-      "value": "mustach"
+      "value": "pipe-classic"
     }
   ],
   "custom_fields": {
-    "dna": "14bbe5f82c58e9a461cd105500e15c045a072c24",
+    "dna": "1c27832cfd59d72aeb354fa602baa6492e5da1b6",
     "edition": 28,
-    "date": 1643989985796,
+    "date": 1644245073580,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"
