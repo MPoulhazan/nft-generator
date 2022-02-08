@@ -1,0 +1,46 @@
+{
+  "name": "QNFTip #68",
+  "description": "Q-NFTip collecion",
+  "image": "ipfs://QmXGtc5CrjweLMXtKxBiX1iit48qtpBrWgeHKYcdDFXad2/68.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "transparent"
+    },
+    {
+      "trait_type": "Qtip",
+      "value": "marine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "transparent"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "round-narrow"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "transparent"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "hat-red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mustache"
+    }
+  ],
+  "custom_fields": {
+    "dna": "c1ce827a987fe6ac445b4b789c5c1ec9ea2b80c3",
+    "edition": 68,
+    "date": 1644293924068,
+    "compiler": "HashLips Art Engine"
+  },
+  "external_url": "https://thecryptoeggs.com"
+}

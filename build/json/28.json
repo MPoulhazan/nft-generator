@@ -1,45 +1,45 @@
 {
-  "name": "CryptoEgg #28",
-  "description": "What's inside ? Nobody knows — 10.000 unique hand-drawn and programmatically generated pixel art Eggs. Be ready for the multiverse ! These eggs may hold some surprises for you....",
+  "name": "QNFTip #28",
+  "description": "Q-NFTip collecion",
   "image": "ipfs://QmXGtc5CrjweLMXtKxBiX1iit48qtpBrWgeHKYcdDFXad2/28.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "gray"
+      "value": "Blue"
     },
     {
       "trait_type": "Neck",
-      "value": "neck"
+      "value": "transparent"
     },
     {
-      "trait_type": "Egg",
-      "value": "marine"
+      "trait_type": "Qtip",
+      "value": "grey"
     },
     {
       "trait_type": "Body",
-      "value": "jacket-blue"
+      "value": "transparent"
     },
     {
       "trait_type": "Eyes",
-      "value": "black"
+      "value": "round-green"
     },
     {
       "trait_type": "Glasses",
-      "value": "3d-2"
+      "value": "transparent"
     },
     {
       "trait_type": "Hair",
-      "value": "bobe"
+      "value": "hat-classic"
     },
     {
       "trait_type": "Mouth",
-      "value": "pipe-classic"
+      "value": "horror"
     }
   ],
   "custom_fields": {
-    "dna": "1c27832cfd59d72aeb354fa602baa6492e5da1b6",
+    "dna": "0ef7e1b0b2abd323e5530f9c73000345dbeebff4",
     "edition": 28,
-    "date": 1644245073580,
+    "date": 1644293920672,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"
