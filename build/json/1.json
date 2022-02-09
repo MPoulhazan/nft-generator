@@ -25,21 +25,21 @@
     },
     {
       "trait_type": "Glasses",
-      "value": "aviator"
+      "value": "transparent"
     },
     {
       "trait_type": "Hair",
-      "value": "hat-classic"
+      "value": "hat-winter"
     },
     {
       "trait_type": "Mouth",
-      "value": "normal"
+      "value": "tooth"
     }
   ],
   "custom_fields": {
-    "dna": "1c80f05995ba791dd5d334a9c6bfade3f768d080",
+    "dna": "0511c41ecb7dc4dee7fa20720b3cf0441f44d9d8",
     "edition": 1,
-    "date": 1644293918160,
+    "date": 1644294524675,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"

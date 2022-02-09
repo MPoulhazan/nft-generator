@@ -21,25 +21,25 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "eyes"
+      "value": "round-brown"
     },
     {
       "trait_type": "Glasses",
-      "value": "round"
-    },
-    {
-      "trait_type": "Hair",
       "value": "transparent"
     },
     {
+      "trait_type": "Hair",
+      "value": "hat-cooker"
+    },
+    {
       "trait_type": "Mouth",
-      "value": "small"
+      "value": "mustache"
     }
   ],
   "custom_fields": {
-    "dna": "e25756fc0c885540519bf58c7a839aa7069145ae",
+    "dna": "77c0e93e976f5e2740b88c07699833069123b4c8",
     "edition": 98,
-    "date": 1644293926539,
+    "date": 1644294532928,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"

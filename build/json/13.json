@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Qtip",
-      "value": "pink"
+      "value": "marine"
     },
     {
       "trait_type": "Body",
@@ -21,25 +21,25 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "round-narrow"
+      "value": "black"
     },
     {
       "trait_type": "Glasses",
-      "value": "transparent"
+      "value": "round"
     },
     {
       "trait_type": "Hair",
-      "value": "hat-winter"
+      "value": "hat-cooker"
     },
     {
       "trait_type": "Mouth",
-      "value": "open"
+      "value": "happy"
     }
   ],
   "custom_fields": {
-    "dna": "865cc63e8f0b96ba41f5636abe87b2f936265c03",
+    "dna": "99851c5de494622dda55f074c77ce916eea90180",
     "edition": 13,
-    "date": 1644293919274,
+    "date": 1644294525709,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"

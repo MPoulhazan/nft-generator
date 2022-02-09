@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "little-smoked"
+      "value": "green"
     },
     {
       "trait_type": "Glasses",
@@ -29,17 +29,17 @@
     },
     {
       "trait_type": "Hair",
-      "value": "turban"
+      "value": "christmas"
     },
     {
       "trait_type": "Mouth",
-      "value": "happy"
+      "value": "mustache-sandard"
     }
   ],
   "custom_fields": {
-    "dna": "81b6d91eca1df7478757adcf7e0c151e417d6613",
+    "dna": "006e5a68fe6013229d880095d9cc44bf3183a616",
     "edition": 12,
-    "date": 1644293919149,
+    "date": 1644294525599,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"

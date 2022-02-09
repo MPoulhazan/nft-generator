@@ -5,7 +5,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "brown"
+      "value": "Blue"
     },
     {
       "trait_type": "Neck",
@@ -21,25 +21,25 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "green"
+      "value": "brown"
     },
     {
       "trait_type": "Glasses",
-      "value": "sauron"
+      "value": "aviator"
     },
     {
       "trait_type": "Hair",
-      "value": "transparent"
+      "value": "hat-black"
     },
     {
       "trait_type": "Mouth",
-      "value": "beard-white"
+      "value": "teeth"
     }
   ],
   "custom_fields": {
-    "dna": "a191eb99ce3b9cde75608c2361d14dc8e54e8ee5",
+    "dna": "8c0d6eab04559a82f66940395c90e0b4de1aa840",
     "edition": 27,
-    "date": 1644293920604,
+    "date": 1644294527034,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"

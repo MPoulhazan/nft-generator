@@ -21,11 +21,11 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "round-green"
+      "value": "solo"
     },
     {
       "trait_type": "Glasses",
-      "value": "aviator"
+      "value": "transparent"
     },
     {
       "trait_type": "Hair",
@@ -33,13 +33,13 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "angry"
+      "value": "woman"
     }
   ],
   "custom_fields": {
-    "dna": "b0295ff9dfd711dc6d59884af83ed544abe634d1",
+    "dna": "3ac47bb9c0761e274e5b121c89353ca5356fb4e4",
     "edition": 93,
-    "date": 1644293926145,
+    "date": 1644294532514,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"

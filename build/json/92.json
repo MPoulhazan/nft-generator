@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "green"
+      "value": "black"
     },
     {
       "trait_type": "Glasses",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "transparent"
+      "value": "christmas"
     },
     {
       "trait_type": "Mouth",
@@ -37,9 +37,9 @@
     }
   ],
   "custom_fields": {
-    "dna": "8f794f69fe132ff39997540574c3d267d9d8247f",
+    "dna": "446c96d1638b66b9f0b2c85bc238ef26dfcecc52",
     "edition": 92,
-    "date": 1644293926033,
+    "date": 1644294532422,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"

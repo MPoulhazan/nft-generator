@@ -29,17 +29,17 @@
     },
     {
       "trait_type": "Hair",
-      "value": "transparent"
+      "value": "hat-student"
     },
     {
       "trait_type": "Mouth",
-      "value": "small"
+      "value": "mustache-old"
     }
   ],
   "custom_fields": {
-    "dna": "8c848c0a2a915307ea6481fe5452d60a01500472",
+    "dna": "8b9e527a2bb4fe8957c030c5a6dca798e2696329",
     "edition": 108,
-    "date": 1644293927377,
+    "date": 1644294533729,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"
