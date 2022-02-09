@@ -5,15 +5,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "brown"
     },
     {
       "trait_type": "Neck",
-      "value": "transparent"
+      "value": "theme7"
     },
     {
       "trait_type": "Qtip",
-      "value": "pink"
+      "value": "grey"
     },
     {
       "trait_type": "Body",
@@ -21,25 +21,25 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "sad"
+      "value": "black"
     },
     {
       "trait_type": "Glasses",
-      "value": "transparent"
+      "value": "aviator"
     },
     {
       "trait_type": "Hair",
-      "value": "hat-student"
+      "value": "hat-black"
     },
     {
       "trait_type": "Mouth",
-      "value": "mustache-little"
+      "value": "tooth"
     }
   ],
   "custom_fields": {
-    "dna": "dea380449f32dbb5bf030c9cf474fd44823f01a8",
+    "dna": "34aba83a4a5b60bca8452b437c9cb9f7dcba6024",
     "edition": 67,
-    "date": 1644294530342,
+    "date": 1644431033911,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"

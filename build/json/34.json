@@ -5,27 +5,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "brown"
+      "value": "green"
     },
     {
       "trait_type": "Neck",
-      "value": "transparent"
+      "value": "demon"
     },
     {
       "trait_type": "Qtip",
-      "value": "greener"
+      "value": "pink"
     },
     {
       "trait_type": "Body",
-      "value": "transparent"
+      "value": "gold"
     },
     {
       "trait_type": "Eyes",
-      "value": "eyes"
+      "value": "eyes6"
     },
     {
       "trait_type": "Glasses",
-      "value": "potter"
+      "value": "sauron"
     },
     {
       "trait_type": "Hair",
@@ -37,9 +37,9 @@
     }
   ],
   "custom_fields": {
-    "dna": "1f33bc6510c2a19a4f25dfbb16c725fdd71a92c8",
+    "dna": "3508b1ba0445f3fea6fe0df610117087c1274fb7",
     "edition": 34,
-    "date": 1644294527630,
+    "date": 1644431030249,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"

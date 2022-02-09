@@ -5,7 +5,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "gray"
     },
     {
       "trait_type": "Neck",
@@ -17,29 +17,29 @@
     },
     {
       "trait_type": "Body",
-      "value": "transparent"
+      "value": "gold"
     },
     {
       "trait_type": "Eyes",
-      "value": "big-blue"
+      "value": "eyes8"
     },
     {
       "trait_type": "Glasses",
-      "value": "aviator"
+      "value": "thug"
     },
     {
       "trait_type": "Hair",
-      "value": "hat-navy"
+      "value": "hat-student"
     },
     {
       "trait_type": "Mouth",
-      "value": "mustache"
+      "value": "small"
     }
   ],
   "custom_fields": {
-    "dna": "6748889a6c1e475950de1dac4c6f95241683a920",
+    "dna": "6f32712e71780ad97d5668f3063978d90820adb5",
     "edition": 107,
-    "date": 1644294533653,
+    "date": 1644431038641,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"

@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Neck",
-      "value": "transparent"
+      "value": "theme"
     },
     {
       "trait_type": "Qtip",
-      "value": "greener"
+      "value": "grey"
     },
     {
       "trait_type": "Body",
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "eyes"
+      "value": "black"
     },
     {
       "trait_type": "Glasses",
@@ -33,13 +33,13 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "woman"
+      "value": "mouth4"
     }
   ],
   "custom_fields": {
-    "dna": "9f84f2645b883f40519ccfcc07bfe9d00df2e988",
+    "dna": "6ccc37c490a7a8a181419f186442e1ee080647b7",
     "edition": 55,
-    "date": 1644294529348,
+    "date": 1644431032724,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"

@@ -21,25 +21,25 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "angry"
+      "value": "eyes13"
     },
     {
       "trait_type": "Glasses",
-      "value": "sauron"
+      "value": "transparent"
     },
     {
       "trait_type": "Hair",
-      "value": "hat-winter"
+      "value": "transparent"
     },
     {
       "trait_type": "Mouth",
-      "value": "mustache-old"
+      "value": "happy"
     }
   ],
   "custom_fields": {
-    "dna": "475274cfc19099a88418e22213448edc467f5f37",
+    "dna": "1f5983b2eee08edfab9480d58df07796dce4f7a5",
     "edition": 61,
-    "date": 1644294529857,
+    "date": 1644431033255,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"

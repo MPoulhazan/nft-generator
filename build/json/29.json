@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "sad"
+      "value": "narrow"
     },
     {
       "trait_type": "Glasses",
@@ -29,17 +29,17 @@
     },
     {
       "trait_type": "Hair",
-      "value": "hat-student"
+      "value": "french"
     },
     {
       "trait_type": "Mouth",
-      "value": "mustache-sandard"
+      "value": "normal"
     }
   ],
   "custom_fields": {
-    "dna": "53c72f43f860ef9d7be5802ce548460b823e7d3e",
+    "dna": "cf60e1bf567af5e324fc94a894a1ddd0375dda1b",
     "edition": 29,
-    "date": 1644294527210,
+    "date": 1644431029615,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"

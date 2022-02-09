@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "black"
+      "value": "brown"
     },
     {
       "trait_type": "Glasses",
@@ -29,17 +29,17 @@
     },
     {
       "trait_type": "Hair",
-      "value": "hat-woman"
+      "value": "turban"
     },
     {
       "trait_type": "Mouth",
-      "value": "tooth"
+      "value": "mustache"
     }
   ],
   "custom_fields": {
-    "dna": "b3c7f91fcbd821fd3d12c2747fdf500ddbb5c5da",
+    "dna": "43011b6daefeb0b942226f668f5e4a3650649b67",
     "edition": 4,
-    "date": 1644294524936,
+    "date": 1644431026580,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"
