@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Neck",
-      "value": "gold"
+      "value": "theme4"
     },
     {
       "trait_type": "Qtip",
-      "value": "greener"
+      "value": "pixil-frame-0 (6)"
     },
     {
       "trait_type": "Body",
@@ -21,25 +21,25 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "green"
+      "value": "pixil-frame-0 (6)"
     },
     {
       "trait_type": "Glasses",
-      "value": "round"
+      "value": "transparent"
     },
     {
       "trait_type": "Hair",
-      "value": "student"
+      "value": "pixil-frame-0 (10)"
     },
     {
       "trait_type": "Mouth",
-      "value": "tooth"
+      "value": "pixil-frame-0"
     }
   ],
   "custom_fields": {
-    "dna": "e9f10b2cbe4bb8a0df2a3e590bb85c70eef650ba",
+    "dna": "23f01ca55455b1ebbbc767fbbcda5f8008df78a5",
     "edition": 53,
-    "date": 1644431032514,
+    "date": 1645563311251,
     "compiler": "HashLips Art Engine"
   },
   "external_url": "https://thecryptoeggs.com"
